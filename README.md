@@ -1,2 +1,2 @@
 # fi-lib
-A Python library for conjugating Finnish verbs and declining Finnish nouns.
+A Python library for Finnish that conjugates verbs and declines nouns.
