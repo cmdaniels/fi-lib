@@ -7,7 +7,7 @@
 To use `fi-lib`, import the desired functions from `fi_lib.py`. You can then call these functions with the stem of the word you want to conjugate or decline.
 
 ```python
-from fi_lib import conjugate_verb, decline_noun
+from fi_lib import conjugate, decline
 
 verb = "juosta"
 noun = "kissa"
