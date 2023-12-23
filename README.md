@@ -21,7 +21,7 @@ Alternatively, you can decline into just one form.
 ```python
 from fi_lib import ablative
 
-ablative_form = ablative(noun) # Returns "kissasta"
+ablative_form = ablative("kissa") # Returns "kissalta"
 ```
 
 Other useful functions include syllables, vowel harmony, and consonant gradation.
